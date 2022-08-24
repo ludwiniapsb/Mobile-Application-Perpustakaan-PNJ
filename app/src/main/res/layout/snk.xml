@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="45dp">
+
+    <TextView
+        android:id="@+id/snkk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:fontFamily="sans-serif-black"
+        android:text="Syarat dan Ketentuan"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/snk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/teks_panjang"
+        android:textSize="15sp"
+        android:layout_marginTop="45dp"/>
+</RelativeLayout>

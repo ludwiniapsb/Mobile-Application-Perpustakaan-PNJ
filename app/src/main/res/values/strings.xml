@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Perpustakaan PNJ</string>
+    <string name="teks_panjang">
+        <b>Peraturan Umum</b>
+        \n
+\n
+        <br><br>1.	Berpakaian sopan dan tidak diperkenankan memakai kaos oblong, jaket dan sandal.</br></br>
+\n
+        <br>2.	Mengisi daftar pengunjung yang sudah disediakan.</br>
+\n
+     <br>3.	Tidak diperkenankan membawa buku, tas, map dan sejenisnya, serta membawa jaket ke ruang perpustakaan.</br>
+\n
+     <br>4.	Tidak diperkenankan menyimpan uang, perhiasan, dan barang-barang berharga lainnya dalam perlengkapan barang yang di titipkan.</br>
+\n
+     <br>5.	Menjaga kerapihan bahan pustaka, kebersihan, keamanan dan ketenangan belajar.</br>
+\n
+     <br>6.	Tidak diperkenankan membawa makanan dan minuman atau pun makan-makan dan merokok di ruang perpustakaan.</br>
+\n
+     <br>7.	Memperlihatkan kepada petugas barang/buku yang dibawa pada saat masuk dan keluar perpustakaan.</br>
+\n
+        \n
+     <b><br><br>Peraturan Peminjaman Bahan Pustaka</br></br></b>
+\n
+\n
+     <b><br><br>•	Prosedur Peminjaman</br></br></b>
+        \n
+     <br>1.	Setiap Peminjam harus memperlihatkan kartu anggota perpustakaan yang masih berlaku.</br>
+        \n
+     <br>2.	Setiap Peminjam tidak diperkenankan menggunakan kartu anggota perpustakaan milik orang lain</br>
+        \n
+     <br>3.	Jenis koleksi buku yang dipinjam adalah semua buku yang ada di ruang sirkulasi.</br>
+        \n
+     <br>Jumlah koleksi yang dapat dipinjam:</br>
+        \n
+     <br>Mahasiswa sebanyak 2(dua) eksemplar;</br>
+        \n
+     <br>Dosen,Karyawan dan Mahasiswa Pascasarjana sebanya 3(tiga) eksemplar.</br>
+        \n
+     <br>4.	Pinjaman untuk di photo copy adalah semua koleksi yang berada di ruang sirkulasi dan referensi;</br>
+        \n
+     <br>5.	Setiap peminjaman diharuskan memeriksakan keutuhan buku yang akan dipinjamnya kepada petugas peminjaman</br>
+        \n
+     <br>6.	Buku-buku yang dipinjam oleh mahasiswa, dosen, karyawan dan mahasiswa Pascasarjana paling lambat dikembalikan 7 (tujuh) hari terhitung mulai tanggal peminjaman.</br>
+     \n
+        <br>7.	Buku yang telah habis masa pinjamannya harus dikembalikan tepat waktunya dan dapat diperpanjang waktu pinjamnya.</br>
+     \n
+        <br><br>8.	Perpanjangan waktu peminjaman hanya dapat dilakukan sebanyak 1(satu) kali.</br></br>
+\n
+        \n
+     <b><br>•	Kewajiban dan Tanggung Jawab Peminjam</br></b>
+        \n
+     <br>1.	Peminjam diwajibkan memelihara buku yang dipinjamnya dengan baik dan dilarang membuat tulisan, coretan atau merusak/merobek halaman buku.</br>
+     \n
+        <br>2.	Kerusakan buku yang dipinjam yang disebabkan oleh peminjam, sepenuhnya menjadi tanggung jawab peminjam dan diharuskan mengganti dengan buku yang sama dalam keadaan utuh dan ditambah dengan denda keterlambatan.</br>
+     \n
+        <br>3.	Kehilangan buku perpustakaan yang sedang dipinjam sepenuhnya menjadi tanggung jawab peminjam.</br>
+        \n
+     <br>Penggantian dapat berupa:</br>
+        \n
+     <br>Buku yang sama judulnya;</br>
+        \n
+     <br>Uang yang besarnya:</br>
+        \n
+     <br><br>1 X harga buku, untuk buku-buku terbitan dalam negeri, ditambah biaya administrasi, atau 2 X lipat harga buku, untuk buku-buku terbitan dalam negeri yang termasuk kategori buku langka, atau 3 X harga buku, untuk buku-buku terbitan luar negeri.</br></br>
+\n
+        \n
+     <b><br>•	Sanksi</br></b>
+        \n
+     <br>1.	Setiap peminjam yang mempunyai buku pinjaman dan telah melewati batas waktu peminjamannya tidak diperkenankan meminjam buku lain sebelum buku tersebut dikembalikan.</br>
+     \n
+        <br>2.	Setiap peminjaman yang terlambat mengembalikan buku dikenakan denda sesuai dengan ketentuan yang berlaku</br>
+     \n
+        <br>3.	Setiap peminjam yang terlambat mengembalikan buku pinjamannya sampai 2(dua) bulan berturut-turut terhitung sejak jatuh tempo tanggal pengembaliannya, dinyatakan menghilangkan buku tersebut.</br>
+     <br>4.	Tidak diperkenankan menggunakan haknya sebagai anggota perpustakaan untuk sementara waktu</br>
+        \n
+     <br><br>5.	Dicabut tanda keanggotaanya dari perpustakaan Politeknik Negeri Jakarta</br></br>
+        \n
+\n
+     <b><br>•	Ketentuan Khusus</br></b>
+        \n
+     <br>1.	Setiap Anggota yang keluar dari keanggotaan/mahasiswa yang akan mengambil ijazah, diharuskan mendapat surat keterangan bebas pinjaman dari perpustakaan dengan menyerahkan Skripsi berikut Soft Copy nya dalam bentuk CD dan diwajibkan menyumbang buku.</br>
+        \n
+        <br>2.	Bagi mahasiswa yang telah lulus ujian diharuskan menyerahkan buku ilmiah bermutu atau uang sesuai ketentuan yang belaku. </br></string>
+<string name="cara">
+    1.	Buka Aplikasi Perpustakaan Politeknik Negeri Jakarta
+    \n
+    \n
+2.	Lakukan Login atau Registrasi untuk
+    \n
+    masuk akun
+    \n
+    \n
+3.	Setelah Login silahkan pilih menu
+    \n
+    “Pinjam Buku”
+    \n
+    \n
+4.	Ambil buku yang ingin dipinjam lalu scan kode bar pada belakang buku, akan muncul kode buku
+    \n
+    \n
+5.	Masukan data sesuai dengan form yang tersedia
+    \n
+    \n
+6.	Klik simpan.
+
+</string>
+</resources>

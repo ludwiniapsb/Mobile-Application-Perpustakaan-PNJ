@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F4EB">
+
+
+    <Button
+        android:id="@+id/buttontwt"
+        android:layout_width="256dp"
+        android:layout_height="54dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#008797"
+        android:text="Twitter"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonwa"
+        app:layout_constraintVertical_bias="0.006"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/buttonwa"
+        android:layout_width="256dp"
+        android:layout_height="54dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#008797"
+        android:text="Whatsapp"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonig"
+        tools:ignore="MissingConstraints"
+        />
+
+    <Button
+        android:id="@+id/buttonig"
+        android:layout_width="256dp"
+        android:layout_height="54dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#008797"
+        android:text="Instagram"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/botton6"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:layout_width="98dp"
+        android:layout_height="124dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="28dp"
+        android:src="@drawable/cs"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/botton4"
+        android:layout_width="358dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="152dp"
+        android:text="Ada Pertanyaan atau Butuh Bantuan?"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/botton6"
+        android:layout_width="356dp"
+        android:layout_height="49dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="28dp"
+        android:text="Jangan ragu untuk menghubungi kami kapan saja, klik kontak di bawh ini."
+        android:textColor="#ACA7A7"
+        android:textSize="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/botton4"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="114dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:src="@drawable/ic_baseline_arrow_left_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.951" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

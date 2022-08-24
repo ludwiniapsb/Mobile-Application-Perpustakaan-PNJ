@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F4EB">
+
+    <ImageView
+        android:layout_width="421dp"
+        android:layout_height="216dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:src="@drawable/pnjg"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-8dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/botton4"
+        android:layout_width="389dp"
+        android:layout_height="377dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="116dp"
+        android:gravity="center"
+        android:text="Politeknik Negeri Jakarta merupakan perguruan tinggi negeri yang menyelenggarakan program vokasi yang didirikan untuk memenuhi kebutuhan SDM profesional di industri, baik industri jasa maupun industri manufaktur. Pembelajaran menerapkan Kurikulum Nasional (Kurnas) pendidikan profesional secara bertanggung jawab dengan didukung oleh dosen-dosen profesional. Sistemnya adalah dengan mempertemukan ilmu dan teknologi sesuai komposisi teori 45% dan praktik 55% yang diterapkan secara harmonis untuk menghasilkan lulusan yang profesional dan memenuhi kualifikasi industri."
+        android:textColor="#008797"
+        android:textSize="19dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.727"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <View
+        android:id="@+id/view7"
+        android:layout_width="424dp"
+        android:layout_height="22dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="632dp"
+        android:background="@drawable/garis"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.846"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="424dp"
+        android:layout_height="22dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="216dp"
+        android:background="@drawable/garis"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.923"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="114dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:src="@drawable/ic_baseline_arrow_left_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.951" />
+</androidx.constraintlayout.widget.ConstraintLayout>

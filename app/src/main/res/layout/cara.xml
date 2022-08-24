@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="40dp">
+
+
+    <View
+        android:id="@+id/view13"
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="-4dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="-2dp"
+        android:layout_marginBottom="42dp"
+        android:background="@drawable/bg" />
+
+    <TextView
+        android:id="@+id/snk"
+        android:layout_width="match_parent"
+        android:layout_height="439dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="78dp"
+        android:layout_marginBottom="138dp"
+        android:paddingTop="120dp"
+        android:text="@string/cara"
+        android:gravity="center"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/snkk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="81dp"
+        android:fontFamily="sans-serif-black"
+        android:paddingTop="20dp"
+        android:gravity="center"
+        android:text="Cara Peminjaman dengan Aplikasi"
+        android:textSize="25dp" />
+
+</RelativeLayout>
+
+
